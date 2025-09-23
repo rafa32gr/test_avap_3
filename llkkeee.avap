@@ -1,0 +1,2 @@
+include /login.avap
+include /logout.avap

@@ -1,0 +1,1 @@
+{"openapi":"3.0.0","info":{"title":"23rwesfdxc","version":"1.0.0","description":"API description will appear here"},"paths":{"/timestamp":{"get":{"summary":"","parameters":[],"responses":{}}},"/time":{"get":{"summary":"","parameters":[],"responses":{}}}},"components":{"schemas":{},"securitySchemes":{}}}
